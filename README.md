@@ -1,1 +1,1 @@
-# DISCORD-BOT
+# DISCORD-BOT A "Discord Bot" refers to a user-like member of your server that you can use to automate various actions. It's denoted by a "Bot" tag next to its name. Bots use Discord's public "API" to do actions like send messages, modify roles, etc.
